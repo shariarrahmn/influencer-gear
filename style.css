@@ -1,6 +1,7 @@
 *{
     margin: 0;
     font-family: 'Poppins', sans-serif;
+    
    
 
 }
@@ -220,7 +221,8 @@ footer i{
     .featured-img img{
         margin-top: 50px;
         width: 250px;
-        padding-left: 50px;
+        padding-left: 51px;
     }
 
 }
+/* the end */
